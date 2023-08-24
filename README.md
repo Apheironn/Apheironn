@@ -1,4 +1,4 @@
-![HomepageUI](./banner.jpg))
+![HomepageUI](./banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Mertcan</h1>
 
@@ -24,7 +24,7 @@ As an enthusiastic learner, I'm excited about the potential of AI and its real-w
 
 #
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mertcancatak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mertcancatak" height="30" width="40" /></a>
 <a href="https://kaggle.com/mertcancatak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mertcancatak" height="30" width="40" /></a>
