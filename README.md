@@ -1,32 +1,116 @@
 ![HomepageUI](./banner.jpg)
 
-<h1 align="center">Hi 👋, I'm Mertcan</h1>
+<h1 align="center">Hi, I'm Mertcan 👋</h1>
 
-<h3 align="center">Passionate Computer Science Student | Aspiring Data Scientist and AI Engineer | AI & Machine Learning Enthusiast | Exploring Deep Learning, Reinforcement Learning, TensorFlow, OpenCV, and MLOps</h3>
-<br />
-Hello, I'm Mertcan, a computer science student passionate about AI and machine learning. Proficient in Python, AI, and robotics, I'm practicing & working in ML, EDA and related fields for AI Engineering & Data Science. I'm on a mission to become a Data Scientist & AI Engineer.
+<h3 align="center">
+Machine Learning Engineer · Data Scientist · Computer Vision & LLM Systems
+</h3>
 
-My learning journey includes mastering Deep Learning, Reinforcement Learning, Big Data, OpenCV and TensorFlow. I'm actively seeking opportunities to grow while exploring these fields.
+<p align="center">
+  I build machine learning systems across forecasting, computer vision, and LLM-based workflows.
+</p>
 
-As an enthusiastic learner, I'm excited about the potential of AI and its real-world applications. I'm actively searching for internships or job roles in Data Science and AI Engineering.
+<p align="center">
+  <a href="https://github.com/apheironn">
+    <img src="https://img.shields.io/badge/GitHub-apheironn-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/mertcancatak">
+    <img src="https://img.shields.io/badge/LinkedIn-Mertcan%20Catak-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://kaggle.com/mertcancatak">
+    <img src="https://img.shields.io/badge/Kaggle-mertcancatak-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+</p>
 
+---
 
+## About Me
 
-#
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-<br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apheironn&show_icons=true&locale=en&layout=compact" alt="apheironn" /></p>
+I am a Machine Learning Engineer and Data Scientist focused on building practical AI systems.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apheironn&show_icons=true&locale=en" alt="apheironn" /></p>
+My work is mainly around:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apheironn&" alt="apheironn" /></p>
+- Machine learning and deep learning
+- Computer vision
+- LLM systems and retrieval-based applications
+- Forecasting and time series modeling
+- Cloud-based ML pipelines and MLOps
 
-#
+I am currently pursuing an M.Sc. in Data Science at Hamburg University of Technology while working on production-oriented machine learning systems.
 
-<h3 align="left">Contact with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mertcancatak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mertcancatak" height="30" width="40" /></a>
-<a href="https://kaggle.com/mertcancatak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mertcancatak" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/apheironn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="apheironn" height="30" width="40" /></a>
+---
+
+## Technical Areas
+
+```text
+Machine Learning      → PyTorch, TensorFlow, Scikit-learn
+LLM Systems           → RAG, Transformers, LangChain, LangGraph
+Computer Vision       → OpenCV, CNNs, object detection
+Forecasting           → time series, energy data, grid-based modeling
+MLOps & Cloud         → Docker, Azure, AWS, CI/CD, Linux
+```
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+</p>
+
+### Machine Learning & AI
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+</p>
+
+### LLM & Data Systems
+
+<p>
+  <img src="https://img.shields.io/badge/RAG-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-0F172A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vector%20DBs-4B5563?style=flat-square" />
+</p>
+
+### Cloud, DevOps & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## GitHub Activity
+
+Most of my active development is in private repositories.  
+Public contributions and selected projects are available on my profile.
+
+---
+
+## Connect
+
+<p>
+  <a href="https://linkedin.com/in/mertcancatak">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://kaggle.com/mertcancatak">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/apheironn">
+    <img src="https://img.shields.io/badge/LeetCode-apheironn-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
