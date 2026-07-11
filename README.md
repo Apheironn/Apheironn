@@ -1,4 +1,4 @@
-![HomepageUI](./banner.jpg)
+![HomepageUI](./banner.png)
 
 <h1 align="center">Hi, I'm Mertcan 👋</h1>
 
